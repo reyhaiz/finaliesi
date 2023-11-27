@@ -22,7 +22,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['password'])) {
 
     <div id="luar">
         <div id="welcome">
-            Selamat Datang ,
+            Selamat Datang,
             <?php
 				if ($_SESSION['type_user'] == "Guru") {
 				?><b><?php echo $_SESSION['nama_guru']; ?></b> <a href="logout.php"

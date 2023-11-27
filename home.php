@@ -2,14 +2,13 @@
     <font color="#2133F8"> DASHBOARD</font>
 </b> <br><br>
 <hr color="#2133F8" size="3px" width="100%"><br>
-<font size="+3"><b>Review Singkat Aplikasi</b></font><br><br>
-<font size="+1">
-    <p>Sistem Informasi Akademik SMPN 1 Kedawung merupakan sebuah aplikasi yang berbasis web. Di aplikasi ini,
-        terdapat pembagian user/multi user yaitu admin,guru dan siswa.
-        Selain itu aplikasi ini terdiri dari menu Mata Pelajaran, Jurusan, Standar Kompetensi, Guru, Siswa, Wali Murid,
-        dan Nilai. Diharapkan aplikasi ini dapat memudahkan pekerjaan guru dalam melakukan pendataan serta penilaian
-        siswa.</p>
-    <p>Aplikasi ini menggunakan bahasa pemrograman server side (PHP) dan client side (HTML,CSS,dan JAVA SCRIPT), dan
-        menggunakan program XAMPP, Adobe Dreamweaver CC 2015,dan Google Chrome.</p>
+<font size="+3"><b>Selamat datang di Sistem Informasi Nilai Siswa SMPN 1 Kedawung!</b></font><br><br>
+<font size="+1" style="text-align: justify;">
+    <p>SMPN 1 Kedawung, terletak di Sragen, Jawa Tengah, adalah sekolah menengah pertama yang memiliki sejarah panjang dalam memberikan pendidikan berkualitas di wilayah tersebut. 
+        Berdiri pada tahun 1977, sekolah ini telah berkomitmen untuk membentuk generasi muda yang cerdas, berintegritas, dan berprestasi. 
+        Seiring berjalannya waktu, SMPN 1 Kedawung terus berkembang dan menghadirkan berbagai inovasi pendidikan guna memenuhi tuntutan zaman. 
+        Sekolah ini memiliki reputasi yang kuat dalam bidang akademik dan non-akademik, serta telah menghasilkan banyak lulusan yang sukses dalam berbagai bidang. 
+        Dengan dukungan dari para guru dan staf yang berdedikasi, SMPN 1 Kedawung terus menjadi pusat pendidikan yang unggul di wilayahnya, memberikan kontribusi positif dalam mencetak generasi masa depan yang berprestasi.
+    </p>
 </font>
 <br>

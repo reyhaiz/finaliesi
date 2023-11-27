@@ -33,12 +33,13 @@ body {
 	height: 30px;
 	background-color: #004ABC;
 	padding: 20px;
+	color: white;
 }
 
 #header {
 	width: 103.25%;
 	height: 110px;
-	background-image: url(../logo/header.png);
+	background-image: url(../logo/header-kedawung.png);
 	background-position: left;
 	background-size: 100%;
 	padding-top: 70px;
