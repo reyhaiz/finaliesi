@@ -17,7 +17,7 @@
             <form action="cekLogin.php" method="post" class="expose">
                 <fieldset>
                     <br>
-                    <img src="logo/MTsRM.png" width="150" height="150">
+                    <img src="logo/logologin.png" width="150" height="150">
                     <br><br>
                     <input type="text" size="25px" name="username" maxlength="10" placeholder="Inputkan Username"
                         required><br /><br>
